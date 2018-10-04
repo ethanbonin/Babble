@@ -1,0 +1,16 @@
+PODS:
+  - Babble (0.1.0)
+
+DEPENDENCIES:
+  - Babble (from `../`)
+
+EXTERNAL SOURCES:
+  Babble:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Babble: 962ba7db95af4081f997773205ebf4a31a13b7ed
+
+PODFILE CHECKSUM: 2591d172041796c336c8f75f52828797f462103c
+
+COCOAPODS: 1.5.3

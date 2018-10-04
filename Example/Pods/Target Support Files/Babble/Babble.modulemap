@@ -1,0 +1,6 @@
+framework module Babble {
+  umbrella header "Babble-umbrella.h"
+
+  export *
+  module * { export * }
+}

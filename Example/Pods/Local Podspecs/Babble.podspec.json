@@ -1,0 +1,22 @@
+{
+  "name": "Babble",
+  "version": "0.1.0",
+  "summary": "A short description of Babble.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ethanbonin@gmail.com/Babble",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ethanbonin@gmail.com": "ethanbonin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ethanbonin@gmail.com/Babble.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Babble/Classes/**/*"
+}
