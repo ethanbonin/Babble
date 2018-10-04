@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Babble_Example' do
+  pod 'Babble', :path => '../'
+
+  target 'Babble_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
